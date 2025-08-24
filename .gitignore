@@ -1,0 +1,36 @@
+# Local runtime data
+session.jsonl
+storage.cover
+
+# Binaries
+gotrack
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Build artifacts
+bin/
+build/
+dist/
+
+# Coverage and profiling
+coverage.out
+coverage.html
+*.cov
+*.prof
+*.out
+
+# Editor/IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+tmp/
